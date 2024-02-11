@@ -1,4 +1,4 @@
-disp('Spherical Modern Variiant Manipulator')
+disp('Spherical Modern Variant Manipulator')
 
 syms a1 a2 a3 d3
 
