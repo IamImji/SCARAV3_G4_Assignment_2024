@@ -32,4 +32,4 @@ Scara_PRR = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA_PRRVariant')
 
 Scara_PRR.plot([0,0,0], 'workspace', [-10 10 -10 10 -2 10])
 
-Scara_PRR.teach
+Scara_PRR_V3.teach
