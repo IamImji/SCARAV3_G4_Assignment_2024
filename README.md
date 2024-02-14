@@ -16,6 +16,9 @@ Here are the Kinematic Diagram and D-H Parametric Table of the following Mechani
    
    ![SCARA](https://github.com/chrstnmrys/SCARAV3_G4_Assignment_2024/assets/157685794/0c14deff-1e19-4122-9fe9-b36349a9d1e4)
 
+
    D-H Parametric Table
-   [D-H PARAMETRIC TABLE.pdf](https://github.com/chrstnmrys/SCARAV3_G4_Assignment_2024/files/14280634/D-H.PARAMETRIC.TABLE.pdf)
+   
+   ![D-H Parametric Tables](https://github.com/chrstnmrys/SCARAV3_G4_Assignment_2024/assets/157685794/6f5a0a12-fefd-4b75-9d0c-11ccecd58563)
+
 
